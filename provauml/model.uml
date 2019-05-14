@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_eZc04HZzEem__5D9R1yQhA" name="NewModel">
+  <packagedElement xmi:type="uml:UseCase" xmi:id="_vh3HUHZzEem__5D9R1yQhA" name="UseCase1"/>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_v8TAkHZzEem__5D9R1yQhA" name="Actor1">
+    <eAnnotations xmi:id="_v8UOsHZzEem__5D9R1yQhA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <details xmi:id="_v8UOsXZzEem__5D9R1yQhA" key="Human"/>
+    </eAnnotations>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Association" xmi:id="_wdzyMHZzEem__5D9R1yQhA" memberEnd="_wetKEHZzEem__5D9R1yQhA _wetxIHZzEem__5D9R1yQhA">
+    <ownedEnd xmi:id="_wetKEHZzEem__5D9R1yQhA" type="_vh3HUHZzEem__5D9R1yQhA" association="_wdzyMHZzEem__5D9R1yQhA"/>
+    <ownedEnd xmi:id="_wetxIHZzEem__5D9R1yQhA" type="_v8TAkHZzEem__5D9R1yQhA" association="_wdzyMHZzEem__5D9R1yQhA"/>
+  </packagedElement>
+</uml:Model>
